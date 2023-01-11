@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  flex-direction: column;
+  height: auto;
+  padding: 15rem;
+}
+fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+
+img {
+  width: 4rem;
+}
